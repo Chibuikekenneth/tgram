@@ -20,7 +20,7 @@ The service is available, for example, for [Russian-speaking](https://ru.tgr.am/
 
 **Optimization**
 
-The first thing that catches your eye is the high speed of page loads and aggressive optimization.
+The first thing that entice you is the high speed at which the page loads and aggressive optimization.
 ![](https://tst.tgr.am/i/tst/recoilme/17_.png)
 
 
